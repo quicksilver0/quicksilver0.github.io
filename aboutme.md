@@ -12,7 +12,7 @@ I am very passionate about Data Science, Data Analysis, Deep Learning, AI - are 
 What else?
 - I'm a vegetarian, sometimes rawtarian, and also into ecology a lot.
 - Music is my saving grace, literally.
-- oh yes, why "quicksilver"? Well, it is the coolest character in Marvel universe. Check out [the video](https://youtu.be/oynFdbNJ03M) with him saving Professor Xavier's gifted students.
+- oh yes, why "quicksilver"? Well, it is the coolest character in Marvel universe. Check out [the video](https://www.youtube.com/watch?v=ZnZqB5Z75zI) with him saving Professor Xavier's gifted students.
 
 ### Data Science path
 My Introduction started with a 5-course specialization at University of Michigan Applied Data Science with Python at [coursera.org](http://coursera.org)
